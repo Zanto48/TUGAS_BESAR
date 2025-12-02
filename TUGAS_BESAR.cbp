@@ -32,6 +32,12 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="CHILD.cpp" />
+		<Unit filename="CHILD.h" />
+		<Unit filename="PARENT.cpp" />
+		<Unit filename="PARENT.h" />
+		<Unit filename="RELASI.cpp" />
+		<Unit filename="RELASI.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
